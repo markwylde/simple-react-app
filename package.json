@@ -1,0 +1,20 @@
+{
+  "name": "react-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "watchify -o index.bundle.js index.js",
+    "serve": "ws -p 8080",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^16.5.0",
+    "local-web-server": "^4.0.0",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  }
+}
