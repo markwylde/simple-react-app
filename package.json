@@ -15,10 +15,10 @@
   "dependencies": {
     "browserify": "^17.0.0",
     "local-web-server": "^4.2.1",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
   },
   "devDependencies": {
-    "watchify": "^3.11.1"
+    "watchify": "^4.0.0"
   }
 }
